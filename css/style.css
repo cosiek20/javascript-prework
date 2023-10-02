@@ -1,3 +1,14 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+}
 
+.button-container {
+  padding-top: 50px;
+  margin: auto;
+  padding-bottom: 50px;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+#scoreplayer {
+  padding-top: 30px;
+}
